@@ -1,4 +1,4 @@
-#CV CÁ NHÂN
+# CV CÁ NHÂN
 ## Thông tin cá nhân 
 * Họ và tên: Đoàn Văn Sơn
 * MSSV: 2011068482
